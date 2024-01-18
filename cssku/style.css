@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+body {
+  font-family: 'Poppins', sans-serif;
+  background-image: url(../img/bgweb.jpg);
+}
+
+body html {
+  margin: 0;
+  padding: 0;
+}
+.ban .quote .container .our {
+  padding: 0 0 !important;
+}
+
+.baner {
+  color: darkblue;
+  background-size: cover;
+  background-position: bottom;
+  background-image: url(../img/baner.jpg);
+  height: 40em;
+}
+
+.baner h3 {
+  font-size: 4em;
+}
+
+.baner h5 {
+  font-size: 2em;
+}
+.baner P {
+  font-size: 2em;
+}
+
